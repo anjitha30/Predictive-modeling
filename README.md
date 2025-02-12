@@ -1,5 +1,4 @@
 # Predictive-modeling
-# Customer Booking Prediction
 
 ## Description
 This project aims to predict whether a customer will complete a booking using machine learning. The dataset includes features such as `purchase_lead`, `total_services`, and `flight_duration`. A RandomForestClassifier was used to build the model.
