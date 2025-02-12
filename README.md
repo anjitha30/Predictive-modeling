@@ -7,7 +7,7 @@ This project aims to predict whether a customer will complete a booking using ma
 - Data exploration and preprocessing.
 - Feature engineering (e.g., `total_services` = `wants_extra_baggage` + `wants_preferred_seat` + `wants_in_flight_meals`).
 - Model training and evaluation using RandomForestClassifier.
-- Handling imbalanced data using class weighting.
+- Model Evaluation & Interpretation.
 
 ## Results
 - **Accuracy**: 85.66%
